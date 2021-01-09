@@ -1,3 +1,4 @@
+
 $(window).on("scroll", function() {
     if($(window).scrollTop()) {
           $('nav').addClass('white');
@@ -6,4 +7,6 @@ $(window).on("scroll", function() {
     else {
           $('nav').removeClass('white');
     }
-})
+});
+  
+  
