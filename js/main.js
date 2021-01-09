@@ -8,5 +8,13 @@ $(window).on("scroll", function() {
           $('nav').removeClass('white');
     }
 });
+
+$('nav').hover(function() {
+      $('nav').addClass('white');
+});
+
+$('nav').mouseleave(function() {
+      $('nav').removeClass('white');
+});
   
   
