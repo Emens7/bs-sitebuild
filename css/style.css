@@ -105,7 +105,7 @@ header.headerColor1 {
     color: white;
     border: 1px solid;
     background-color: #fdcc52;
-    border-color: #fdcc52;
+    border-color: #fdcc52 !important;
     border-radius: 1.5rem;
     transition-duration: 300ms;
   }
