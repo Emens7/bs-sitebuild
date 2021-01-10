@@ -9,12 +9,5 @@ $(window).on("scroll", function() {
     }
 });
 
-$('nav').hover(function() {
-      $('nav').addClass('white');
-});
-
-$('nav').mouseleave(function() {
-      $('nav').removeClass('white');
-});
   
   
