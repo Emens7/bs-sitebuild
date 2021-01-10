@@ -4,6 +4,7 @@
 
 html {
   scroll-behavior: smooth;
+  transition-duration: 300ms;
 }
 
 h1, h2{
